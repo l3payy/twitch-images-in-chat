@@ -2,6 +2,8 @@
 
 
 Как установить? 
+https://chromewebstore.google.com/detail/twitch-images-in-chat-saf/hjndlfmgbcphledpmhhjdcajonnaanid
+или
 Перейдите в релизы https://github.com/msvxdlss/twitch-images-in-chat/releases
 скачайте zip архив, распакуйте в удобное место на диске, в хроме включите Режим разработчика в расширениях, и укажите папку с этими файлами, всё.
 
